@@ -4,5 +4,5 @@
 - 📫 How to reach me sudheeradeshan1013@gmail.com
 
 
-Profile I am a third-year undergraduate student studying software engineering with expertise with
+Profile I am a finel-year undergraduate student studying software engineering with expertise with
  Java, PHP, Python, C++, C# and JavaScript technologies to develop and implement software and applications.
